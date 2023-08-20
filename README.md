@@ -2,19 +2,7 @@
 # Papang
 > 육아 상품 및 베이비 시터 고용 사이트<br>
 > 개발기간 : 2020.12 ~ 2021.01
-
-##  개발팀 소개 Team Description
-- 김상민(조장)
-	- https://github.com/yhoo0094
-- 강은선
-	- https://github.com/qiosion
-	- https://github.com/oivevri
-- 문선애
-	- https://github.com/seonae8133
-- 조영래
-	- https://github.com/joyeongrae
-- 최재영
-	- https://github.com/choijaeyoung147
+> 개발 인원 : 5인
 
 ##  프로젝트 소개 Project Description
 - 육아와 관련된 상품을 판매하고, 베이비 시터를 고용할 수 있는 웹 사이트<br>
