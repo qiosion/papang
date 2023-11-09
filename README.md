@@ -11,9 +11,9 @@ A website that sells parenting-related products and hires babysitters
 Through this project, it was intended to resolve the absence of community sites for childrearing daddies and to increase male participation in parenting.
 
 ###  환경 Environment
-> JAVA, Spring Framework, BootStrap4, HTML5, CSS, Javascript, Mybatis<br>
+> JAVA 11, Spring Framework 5.3.2, BootStrap4, HTML5, CSS, Javascript, Mybatis<br>
 데이터베이스 : Oracle Database<br>
-서버 : TOMCAT 8.5<br>
+서버 : TOMCAT 8.5.27<br>
 빌드 배포 : Maven<br>
 테스트 툴 : Junit<br>
 ###  API
